@@ -44,9 +44,6 @@ Foundations of SRE, Platform, and Cloud Engineering — automation, observabilit
 #### 🤖 **Master AI-Driven Reliability Engineering (AIOps, MLOps & LLMOps)**
 Building the next generation of intelligent operations — predictive alerting, AI remediation, AI-native pipelines, and reliability through machine learning.
 
-#### 🔍 **Master AI Observability**
-End-to-end visibility into AI systems — tracing ML/LLM performance, data drift detection, model reliability, and intelligent telemetry.
-
 📚 *Each track includes hands-on labs, real-world architecture blueprints, and open-source projects.*
 
 ---
