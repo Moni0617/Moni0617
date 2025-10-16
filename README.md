@@ -64,9 +64,4 @@ AIOps | LLMOps | AI-driven Observability | Automated RCA | Predictive Alerting |
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Moni0617&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moni0617&layout=compact)
-
----
-
 ⭐ *"Reliability isn’t just maintained — it evolves. The future of SRE is intelligent, adaptive, and autonomous."*
