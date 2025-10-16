@@ -35,6 +35,13 @@ My mission: build intelligent reliability platforms that can **learn, detect, an
 **Containers:** Kubernetes | Docker | OpenShift  
 
 ---
+## 📘 Books & Publications
+
+### **Modern SRE Handbook**
+*A community-curated guide to modern SRE practices — inspired by Google’s SRE model and adapted for today’s engineering organizations.*
+
+Covers **reliability principles, automation, observability, incident management, resilience design, and SRE leadership** — with playbooks and real-world templates for building reliable, scalable systems.  
+📂 **GitHub Repo:** [Modern-SRE-Handbook]
 
 ### 🎓 Master Tracks — AI + Reliability Engineering Series
 
