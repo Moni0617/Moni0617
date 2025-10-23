@@ -46,18 +46,6 @@ Covers **reliability principles, automation, observability, incident management,
 
 ---
 
-### 🎓 Master Tracks — AI + Reliability Engineering Series
-
-#### 🧩 **Master Core Reliability & Platform Engineering**
-Foundations of SRE, Platform, and Cloud Engineering — automation, observability, SLIs/SLOs, incident culture, and scalability patterns.
-
-#### 🤖 **Master AI-Driven Reliability Engineering (AIOps, MLOps & LLMOps)**
-Building the next generation of intelligent operations — predictive alerting, AI remediation, AI-native pipelines, and reliability through machine learning.
-
-📚 *Each track includes hands-on labs, real-world architecture blueprints, and open-source projects.*
-
----
-
 ### 🧠 Currently Exploring — AI + SRE Skills
 AIOps | LLMOps | AI-driven Observability | Automated RCA | Predictive Alerting | AutoOps
 
