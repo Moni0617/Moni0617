@@ -58,7 +58,7 @@ AIOps | LLMOps | AI-driven Observability | Automated RCA | Predictive Alerting |
 ---
 
 ### 🌐 Connect with Me
-💼 [LinkedIn](#) 🧑‍💻 [Portfolio](#) 🧠 [Blog](#) 📫 mounika@example.com  
+💼 [LinkedIn](#) 🧑‍💻 [Portfolio](#) 📫 mounikamaheswarl6@gmail.com  
 
 ---
 
